@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+
+# Streamlit cache & temp
+.streamlit/
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node (if frontend uses npm)
+node_modules/
+dist/
